@@ -9,9 +9,7 @@ A computer vision and robotics project that enables a mobile robot to detect, tr
 
 ## Project Overview
 
-Developed as part of a Computer Vision course project, this system combines image processing with embedded hardware control to create an object-following robot.
-
-The robot captures video through a camera connected to the Jetson Nano, identifies a target based on its color, estimates its position within the frame, and adjusts its movement accordingly. The control logic enables the robot to turn left or right, move forward, or stop depending on the target's detected position and apparent size.
+Developed as part of a research project during my internship at TTL, this project explored the integration of computer vision and embedded systems to build a mobile robot capable of detecting and following a colored target. Using Python, OpenCV, and NVIDIA Jetson Nano, the system processes live camera input and translates the target's position into motor-control commands.
 
 ## How It Works
 
@@ -78,8 +76,12 @@ This project was developed for the NVIDIA Jetson Nano hardware environment. Runn
 
 The code uses OpenCV, NumPy, and Jetson.GPIO. Hardware pin assignments and camera configuration must match the physical setup.
 
-**Note:** This is an older academic project. The current code may require debugging or environment-specific adjustments before it can be run successfully.
+## Project Background
 
-## Project Context
+- **Project type:** Internship Research Project
 
-Academic project | Computer Vision | 2021
+- **Organization:** Techrotics Technologies Lab (TTL)
+
+- **Year:** 2021
+
+- **Focus areas:** Computer Vision, Image Processing, Embedded Systems, and Robotics
