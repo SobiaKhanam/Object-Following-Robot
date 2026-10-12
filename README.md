@@ -5,7 +5,7 @@ A computer vision and robotics project that enables a mobile robot to detect, tr
 
 ## Project Demo
 
-[Watch the full demonstration]([YOUR_VIDEO_URL](https://drive.google.com/file/d/18oxON_ZiJPSMPRz9SVnipGjGD1LGhGDl/view?usp=sharing))
+[Watch the full demonstration](https://drive.google.com/file/d/18oxON_ZiJPSMPRz9SVnipGjGD1LGhGDl/view?usp=sharing))
 
 ## Project Overview
 
